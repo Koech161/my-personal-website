@@ -1,3 +1,20 @@
 body{
     background-color: seagreen;
 }
+.Logo{
+    padding-left: 10px;
+    font-style: normal;
+    font-size: 30px;
+    color: rgb(20, 17, 16);
+    border-radius: 1px solid;
+    text-decoration: none;
+}
+.navbar{
+    float: right;
+    text-decoration: none;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-left: 50px;
+    font-size: 45px;
+    color: black;
+}
